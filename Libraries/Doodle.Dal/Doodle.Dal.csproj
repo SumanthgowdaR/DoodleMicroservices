@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EFCore.BulkExtensions" Version="3.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Doodle.Infrastructure\Doodle.Infrastructure.csproj" />
+    <ProjectReference Include="..\Doodle.SqlEntities\Doodle.SqlEntities.csproj" />
+  </ItemGroup>
+
+</Project>

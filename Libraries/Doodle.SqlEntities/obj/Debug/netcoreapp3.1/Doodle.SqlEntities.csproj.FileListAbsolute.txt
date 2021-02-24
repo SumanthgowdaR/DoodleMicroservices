@@ -1,0 +1,10 @@
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\bin\Debug\netcoreapp3.1\Doodle.SqlEntities.deps.json
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\bin\Debug\netcoreapp3.1\Doodle.SqlEntities.runtimeconfig.json
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\bin\Debug\netcoreapp3.1\Doodle.SqlEntities.runtimeconfig.dev.json
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\bin\Debug\netcoreapp3.1\Doodle.SqlEntities.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\bin\Debug\netcoreapp3.1\Doodle.SqlEntities.pdb
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\obj\Debug\netcoreapp3.1\Doodle.SqlEntities.AssemblyInfoInputs.cache
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\obj\Debug\netcoreapp3.1\Doodle.SqlEntities.AssemblyInfo.cs
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\obj\Debug\netcoreapp3.1\Doodle.SqlEntities.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\obj\Debug\netcoreapp3.1\Doodle.SqlEntities.pdb
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.SqlEntities\obj\Debug\netcoreapp3.1\Doodle.SqlEntities.csprojAssemblyReference.cache

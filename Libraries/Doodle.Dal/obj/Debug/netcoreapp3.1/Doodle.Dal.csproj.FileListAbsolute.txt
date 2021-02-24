@@ -1,0 +1,13 @@
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\bin\Debug\netcoreapp3.1\Doodle.Dal.deps.json
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\bin\Debug\netcoreapp3.1\Doodle.Dal.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\bin\Debug\netcoreapp3.1\Doodle.Dal.pdb
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\bin\Debug\netcoreapp3.1\Doodle.Infrastructure.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\bin\Debug\netcoreapp3.1\Doodle.SqlEntities.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\bin\Debug\netcoreapp3.1\Doodle.Infrastructure.pdb
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\bin\Debug\netcoreapp3.1\Doodle.SqlEntities.pdb
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\obj\Debug\netcoreapp3.1\Doodle.Dal.csprojAssemblyReference.cache
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\obj\Debug\netcoreapp3.1\Doodle.Dal.AssemblyInfoInputs.cache
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\obj\Debug\netcoreapp3.1\Doodle.Dal.AssemblyInfo.cs
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\obj\Debug\netcoreapp3.1\Doodle.Dal.csproj.CopyComplete
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\obj\Debug\netcoreapp3.1\Doodle.Dal.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Libraries\Doodle.Dal\obj\Debug\netcoreapp3.1\Doodle.Dal.pdb
