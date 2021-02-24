@@ -1,0 +1,8 @@
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\bin\Debug\netcoreapp3.1\Doodle.Infrastructure.deps.json
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\bin\Debug\netcoreapp3.1\Doodle.Infrastructure.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\bin\Debug\netcoreapp3.1\Doodle.Infrastructure.pdb
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\obj\Debug\netcoreapp3.1\Doodle.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\obj\Debug\netcoreapp3.1\Doodle.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\obj\Debug\netcoreapp3.1\Doodle.Infrastructure.AssemblyInfo.cs
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\obj\Debug\netcoreapp3.1\Doodle.Infrastructure.dll
+C:\Users\Sumanth-G.Raju\Source\Repos\DoodleMs\Doodle.Infrastructure\obj\Debug\netcoreapp3.1\Doodle.Infrastructure.pdb
